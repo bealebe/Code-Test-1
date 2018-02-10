@@ -1,0 +1,14 @@
+C:/Users/Bryan/source/repos/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/bin/Debug/IDNetworksCodeTest-BryanBeale.exe.config
+C:/Users/Bryan/source/repos/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/bin/Debug/IDNetworksCodeTest-BryanBeale.exe
+C:/Users/Bryan/source/repos/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/bin/Debug/IDNetworksCodeTest-BryanBeale.pdb
+C:/Users/Bryan/source/repos/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/obj/Debug/IDNetworksCodeTest-BryanBeale.csprojResolveAssemblyReference.cache
+C:/Users/Bryan/source/repos/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/obj/Debug/IDNetworksCodeTest-BryanBeale.csproj.CoreCompileInputs.cache
+C:/Users/Bryan/source/repos/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/obj/Debug/IDNetworksCodeTest-BryanBeale.exe
+C:/Users/Bryan/source/repos/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/obj/Debug/IDNetworksCodeTest-BryanBeale.pdb
+/Users/bryanbeale/Desktop/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/bin/Debug/IDNetworksCodeTest-BryanBeale.exe.config
+/Users/bryanbeale/Desktop/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/bin/Debug/IDNetworksCodeTest-BryanBeale.exe
+/Users/bryanbeale/Desktop/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/bin/Debug/IDNetworksCodeTest-BryanBeale.pdb
+/Users/bryanbeale/Desktop/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/obj/Debug/IDNetworksCodeTest-BryanBeale.csprojResolveAssemblyReference.cache
+/Users/bryanbeale/Desktop/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/obj/Debug/IDNetworksCodeTest-BryanBeale.csproj.CoreCompileInputs.cache
+/Users/bryanbeale/Desktop/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/obj/Debug/IDNetworksCodeTest-BryanBeale.exe
+/Users/bryanbeale/Desktop/IDNetworksCodeTest-BryanBeale/IDNetworksCodeTest-BryanBeale/obj/Debug/IDNetworksCodeTest-BryanBeale.pdb
