@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDNetworksCodeTest-BryanBeale", "IDNetworksCodeTest-BryanBeale\IDNetworksCodeTest-BryanBeale.csproj", "{17A9E68F-4577-499F-9F36-593CF2FC290E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTest1", "IDNetworksCodeTest-BryanBeale\CodeTest1.csproj", "{17A9E68F-4577-499F-9F36-593CF2FC290E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

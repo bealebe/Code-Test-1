@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace IDNetworksCodeTest_BryanBeale
+namespace CodeTest1
 {
     public class LoadingHelper
     {

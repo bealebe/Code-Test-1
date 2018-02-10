@@ -1,5 +1,5 @@
 ﻿using System;
-namespace IDNetworksCodeTest_BryanBeale
+namespace CodeTest1
 {
     public class GenderInfo
     {

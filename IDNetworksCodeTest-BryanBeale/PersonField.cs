@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace IDNetworksCodeTest_BryanBeale
+namespace CodeTest1
 {
     public class PersonField
     {
